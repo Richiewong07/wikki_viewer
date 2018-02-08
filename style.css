@@ -4,6 +4,8 @@ body {
 
 h1 {
   color: #1E90FF;
+  font-weight: bold;
+  font-style: italic;
 }
 
 img {
