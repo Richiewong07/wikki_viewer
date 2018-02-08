@@ -1,0 +1,18 @@
+body {
+  font-family: "Times New Roman";
+}
+
+h1 {
+  color: #1E90FF;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+}
+
+.btn-primary {
+  margin: 1%;
+  background-color: #1E90FF;
+  border-color: #1E90FF;
+}
